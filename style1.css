@@ -1,0 +1,69 @@
+body{
+    background-color: cyan;
+    margin: 0;
+}
+.main{
+    height: 200px;
+    padding: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+img{
+   height: 50%;
+   width: 30%; 
+   margin: 10px;
+   border-radius: 50%;
+}
+p{
+    text-align: center;
+    margin: 0;
+}
+.name{
+    color: darkblue;
+    font-size: 40px;
+font-weight: 900;
+}
+.tagline{
+    color: darkblue;
+    font-size: 18px;
+font-weight: 900;
+}
+#second{
+    background-color: darkcyan;
+}
+.about{
+    font-size: 35px;
+font-weight: 900;
+}
+.get{
+    
+        font-size: 35px;
+    font-weight: 900;
+    
+}
+.contact1{
+    font-size: 35px;
+font-weight: 900;
+}
+.email{
+    background-color: rgb(92, 168, 168);
+    padding: 10px 5px 10px 5px;
+    color: aquamarine;
+    width: 15%;
+    border-radius: 50%;
+}
+#third{
+    display: flex;
+    flex-direction: row;
+}
+.contact{
+    border: 2px solid black;
+    width: 464px;
+    height: 316px;
+    border-radius: 31px;
+    background: lavender;
+    position: relative;
+    left: 160px;
+    top: -56px;
+}
